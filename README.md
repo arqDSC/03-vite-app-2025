@@ -1,6 +1,4 @@
-# Comando útiles de Git
-
-https://www.youtube.com/watch?v=iT4UOkyI09k
+# Comandos útiles de Git
 
 1. PRIMER COMMIT
 
