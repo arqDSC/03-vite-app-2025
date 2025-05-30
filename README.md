@@ -27,3 +27,10 @@ git checkout main
 _vuelve a rama main_
 
 git merge rama-nombres
+_unifica ramas_
+
+git branch
+_consulta ramas existentes_
+
+git branch -d rama-nombres
+_elimina rama ya no utilizada, ya mergeada con main_
