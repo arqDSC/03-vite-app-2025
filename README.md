@@ -25,19 +25,19 @@ git commit -m '_Nombre descriptivo_'
 git push
 
 git checkout -- .
-_permite volver al estado del ultimo commit_
+_(volver al estado del ultimo commit)_
 
 git checkout -b '_rama-nombre_'
-_crea nueva rama desde ultimo commit_
+_(crear nueva rama desde ultimo commit)_
 
 git checkout main
-_vuelve a rama main_
+_(vuelve a rama main)_
 
 git merge rama-nombres
-_unifica ramas_
+_(unifica ramas)_
 
 git branch
-_consulta ramas existentes_
+_(consulta ramas existentes)_
 
 git branch -d rama-nombres
-_elimina rama ya no utilizada, ya mergeada con main_
+_(elimina rama ya no utilizada, mergeadas con main)_
