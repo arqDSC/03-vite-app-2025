@@ -17,7 +17,8 @@ git add .
 git commit -m '_Nombre descriptivo_'
 git push
 
-3. VOLVER AL ESTADO DEL ULTIMO COMMIT
+git checkout -- .
+_permite volver al estado del ultimo commit_
 
-git checkout -- . _permite corregir ultimo commit_
-git commit --amend _permite corregir ultimo commit_
+git checkout -b '_rama-nombre_'
+_crea nueva rama desde ultimo commit_
