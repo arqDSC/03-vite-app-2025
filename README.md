@@ -22,3 +22,8 @@ _permite volver al estado del ultimo commit_
 
 git checkout -b '_rama-nombre_'
 _crea nueva rama desde ultimo commit_
+
+git checkout main
+_vuelve a rama main_
+
+git merge rama-nombres
