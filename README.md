@@ -19,7 +19,9 @@ git push -u origin main
 2. COMMITS DE PRODUCCION
 
 git add .
+
 git commit -m '_Nombre descriptivo_'
+
 git push
 
 git checkout -- .
